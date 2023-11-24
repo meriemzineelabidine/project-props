@@ -1,0 +1,36 @@
+.box{
+  height: 250px;
+  width:25%;
+ box-shadow: 3px 5px 10px rgba(128, 128, 128, 0.486);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-sizing: hidden;
+  background-color: rgba(128, 128, 128, 0.548);
+  color: white;
+  margin-top: 50px;
+  
+}
+.img-player{
+  width: 192px;
+  height: 80px;
+  box-shadow: 3px 2px 3px rgba(128, 128, 128, 0.512);
+  margin-top: -22px;
+  
+}
+.App{
+  display: flex;
+  justify-content: space-around;
+
+   background-image:url(//www.programme-tv.net/imgre/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Ftel.2F2020.2F02.2F14.2F211e6270-ade6-4695-8723-be1032f52138.2Ejpeg/1200x600/crop-from/top/quality/80/football-d-ou-viennent-les-bandes-de-gazon-sur-les-terrains-video.jpg);
+   background-size: cover;
+   height:100vh;
+   background-repeat: no-repeat;
+
+}
+.style-txt{
+  margin-top: 10px;
+  font-size: 15px;
+
+}
